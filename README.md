@@ -9,8 +9,8 @@ Built for the Codebasics AI Engineering Cohort assignment, then extended into so
 ## Run it
 
 ```bash
-git clone <your-repo-url>
-cd workout-forge
+git clone https://github.com/rreshma2604/Personal-Workout-Planner.git
+cd Personal-Workout-Planner
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 cp .env.example .env                                    # then paste your Groq key in
